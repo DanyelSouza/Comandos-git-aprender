@@ -1,4 +1,4 @@
-Olá esse projeto ensina como vcs a usar o Git 
+comandos q estou aprendendo
 
 $git init // criar um repositorio
 $git add readme.md
